@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(226, 226, 226);
+}
+
+.nav-extended {
+    background-image: url("img/jj.jpg");
+    background-size: cover;
+}
+
+nav ul li.active:hover {
+    border-bottom: solid 2px white;
+}
+
+.tab a.active {
+    border-bottom: solid 2px white;
+}
+
+.nav-header h1 {
+    text-shadow: 2px 2px 8px red;
+}
+
